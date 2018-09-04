@@ -1,32 +1,23 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  firefox &
-    4  files
-    5  ?
-    6  help
-    7  ;
-    8  clear
-    9  help
-   10  help false
-   11  false
-   12  clear
-   13  f
-   14  sh
-   15  clear
-   16  history
-   17  clear screen
-   18  who
-   19  tty6
-   20  shh man
-   21  ssh man
-   22  clear
-   23  pwd
-   24  man pwd
-   25  ls
-   26  ls -l
-   27  ls -a
-   28  ls man
-   29  man ls
-   30  ls -la
-   31  history
-   32  history > history_20180904.txt
+    4  firefox &
+    5  uname
+    6  clear
+    7  uname -r
+    8  uname -a
+    9  history
+   10  echo $0
+   11  clear
+   12  man uname
+   13  man man
+   14  history
+   15  whoami
+   16  who
+   17  pwd
+   18  man pwd
+   19  ls
+   21  ls -l
+   22  ls -a
+   25  ls -la
+   26  history
+   27 history > history_20180904.txt
