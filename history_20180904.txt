@@ -1,0 +1,32 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  files
+    5  ?
+    6  help
+    7  ;
+    8  clear
+    9  help
+   10  help false
+   11  false
+   12  clear
+   13  f
+   14  sh
+   15  clear
+   16  history
+   17  clear screen
+   18  who
+   19  tty6
+   20  shh man
+   21  ssh man
+   22  clear
+   23  pwd
+   24  man pwd
+   25  ls
+   26  ls -l
+   27  ls -a
+   28  ls man
+   29  man ls
+   30  ls -la
+   31  history
+   32  history > history_20180904.txt
