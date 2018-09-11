@@ -1,0 +1,203 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  pws
+    5  pwd
+    6  l
+    7  ls
+    8  ls-l
+    9  ls -l
+   10  cd 
+   11  cd Desktop/
+   12  ls
+   13  pwd
+   14  ls -l
+   15  ls -a
+   16  bac
+   17  back
+   18  cd man
+   19  man cd
+   20  cd user
+   21  cd /home/user
+   22  ls
+   23  ls -l
+   24  cd back
+   25  cd Desktop/
+   26  ls
+   27  ls -la
+   28  cd .
+   29  cd ..
+   30  pwd
+   31  cd ..
+   32  pwd
+   33  ls
+   34  ls -la
+   35  cd .
+   36  cd ..
+   37  cd home
+   38  /cd home
+   39  cd home
+   40  ls
+   41  cd user
+   42  pwd
+   43  /
+   44  man ..
+   45  pwd
+   46  cd .
+   47  pwd
+   48  ls
+   49  cd ..
+   50  cd -la
+   51  ls -la
+   52  cd home
+   53  cd user
+   54  ls ..
+   55  ls
+   56  cd ..
+   57  cd sc
+   58  ls
+   59  ls -l
+   60  ls -la
+   61  cd /
+   62  pwd
+   63  cd ~
+   64  pwd
+   65  ls /
+   66  ls / -la
+   67  history
+   68  clear
+   69  cd 
+   70  cd /
+   71  cd
+   72  ls -la
+   73  Templates/
+   74  cd Templates/
+   75  ls
+   76  ls -la
+   77  cd .
+   78  cd ..
+   79  l
+   80  cd ~/
+   81  pwd
+   82  clear
+   83  ls -l
+   84  mkdir ManaMape
+   85  ls
+   86  ls -l
+   87  deldir ManaMape/
+   88  deletedirectory ManaMape/
+   89  delete
+   90  clear
+   91  cd ManaMape/
+   92  pws
+   93  pwd
+   94  clear
+   95  ls
+   96  ls -la
+   97  cd ..
+   98  rmdir ManaMape/
+   99  ls -la
+  100  ls
+  101  ls -l
+  102  mkdir manamape
+  103  ls
+  104  cd manamape/
+  105  mkdir mana_papildus_mape
+  106  ls
+  107  cd mana_papildus_mape/
+  108  cd ..
+  109  ls
+  110  cd ~
+  111  rmdir man
+  112  man rmdir
+  113  man rm
+  114  rm manamape/
+  115  man rm
+  116  rm manamape/ -rm
+  117  rm -r manamape/
+  118  ls -l
+  119  mkdir .manamape
+  120  ls -l
+  121  ls -la
+  122  ls -k
+  123  ls -l
+  124  rm -r .manamape/
+  125  ls -la
+  126  clear
+  127  echo
+  128  echo banans
+  129  man echo
+  130  echo "texts"
+  131  echo "texts texts texts texts"
+  132  echo texts texts texts
+  133  man echo
+  134  echo texts/n
+  135  echo "texts\n texts\n texts\n"
+  136  man echo
+  137  echo -e texts\n texts\n texts\n
+  138* echo -e "vairak texts
+  139* echo vel texts 
+  140  ls
+  141  faillog 
+  142  ls -l
+  143  cat
+  144  ls
+  145  cat fails1.txt 
+  146  cat
+  147  history
+  148  -e
+  149  e
+  150  cmd
+  151  ls
+  152  cat fails1.txt 
+  153* 
+  154  cmd
+  155  chmod 700 fails1.txt 
+  156  ls -la
+  157  ls -l
+  158  cat fails1.txt 
+  159  chmod 400 fails1.txt 
+  160  echo "texts" > fails1.txt 
+  161  cat fails1.txt 
+  162  rm fails1.txt 
+  163  ls
+  164  chmod 600 fails1.txt 
+  165  ls -l
+  166  nano fails1.txt 
+  167  ls
+  168  nano fails1.txt 
+  169  ls
+  170  history
+  171  cp fails1.txt fails3.txt
+  172  ls
+  173  nano fails3.txt 
+  174  cat fails3.txt 
+  175  ls -l
+  176  man mv
+  177  mv *.txt Music/
+  178  cd Music/
+  179  ls
+  180  move *.txt ../
+  181  mv *.txt ..ls
+  182  ls
+  183  mv *.txt
+  184  mv *.txt ~/
+  185  ls
+  186  ..
+  187  .
+  188  ls
+  189  pwd
+  190  ..
+  191  cd ~
+  192  .
+  193  pwd
+  194  ls
+  195  rm *3*.txt
+  196  ls
+  197  rm *.txt
+  198  ls
+  199  ls -l
+  200  ls -la
+  201  histor
+  202  history
+  203  history > history.txt
