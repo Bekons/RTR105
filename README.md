@@ -51,13 +51,11 @@ datormacibas kursa elektroniska klade
    *  ./git-upload  - palaiž "exe" failu, kura ir kods
    *  python - nomaina terminala izmantoto valodu uz pythonu
    *  idle & - atver pythona koda aplikaciju
-   *  PATH=$PATH~/mape - pievieno pie ceļa noteiktu mapi.
-   
-   ## Python
-  vars() - parada pieejamos mainamos punktus
-  __builtins__ - parada jau iebuvetas komandas
-  __doc__ - Parada noderigu informaciju par komandu
-  abs(10) - parada absoluto punkta vertibu
-  a = 10 - nosaka a punkta vertibu 
-  a * b - reizina punktu a un b
-  Print -  Parada informaciju saformetu 
+   *  PATH=$PATH~/mape - pievieno pie ceļa noteiktu mapi. 
+   *  vars() - parada pieejamos mainamos punktus   
+   *  __builtins__ - parada jau iebuvetas komandas
+   * __doc__ - Parada noderigu informaciju par komandu
+   *  abs(10) - parada absoluto punkta vertibu
+   *  a = 10 - nosaka a punkta vertibu 
+   *  a * b - reizina punktu a un b
+   *  Print -  Parada informaciju saformetu 
