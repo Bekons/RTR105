@@ -45,3 +45,7 @@ datormacibas kursa elektroniska klade
    *  rm * 3 * .txt - izdzeš visus texta failus ar skaitli 3 jebkur nosaukuma
    *  rm fails2.txt - izdzeš failu
   
+3. Stunda
+   
+   *  $PATH - parāda ceļu līdz turienes kur termināls pašlaik strādā.
+   

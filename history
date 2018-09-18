@@ -1,0 +1,16 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  nano README.md 
+    5  cd ..
+    6  ls
+    7  cd
+    8  man cd
+    9  cd RTR105/
+   10  nano git-upload.sh
+   11  ls
+   12  git -upload.sh
+   13  nano git-upload.sh 
+   14  ls
+   15  nano git-upload
+   16  history > history 20180918
