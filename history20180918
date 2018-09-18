@@ -1,0 +1,42 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  nano README.md 
+    5  cd ..
+    6  ls
+    7  cd
+    8  man cd
+    9  cd RTR105/
+   10  nano git-upload.sh
+   11  ls
+   12  git -upload.sh
+   13  nano git-upload.sh 
+   14  ls
+   15  nano git-upload
+   16  history > history 20180918
+   17  chmod 764 git-upload
+   18  ls
+   19  git-upload
+   20  ./git-upload 
+   21  nano git-upload
+   22  ./git-upload 20180918_14_05
+   23  nano git-upload
+   24  ./git-upload 
+   25  ./git-upload 20180918_14_05
+   26  ./git-upload 
+   27  ./git-upload 20180918_14_05
+   28  git config --globa user.name "Bekons"
+   29  ./git-upload 
+   30  nano git-upload
+   31  ./git-upload 20180918_14_05
+   32  ls -l
+   33  nano git-upload
+   34  ./git-upload 20180918_14_05
+   35  ls -l
+   36  nano git-upload
+   37  ./git-upload 20180918_14_05
+   38  python
+   39  ipython
+   40  idle &
+   41  ls
+   42  history > history20180918
