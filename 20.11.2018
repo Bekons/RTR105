@@ -1,0 +1,16 @@
+import sys
+sys.path.append('/usr/local/anaconda3/lib/python3.6/site-packages')
+
+from numpy import sin, linspace
+x = linspace (0, 7, 71)
+y = sin(x)
+
+delta_x = x[1] - x[0]
+
+from matplotlib import pyplot as plt
+plt.grid()
+plt.xlabel('x')
+plt.ylabel('f(x)')
+plt.title('Funkcija $sin(x)$')
+plt.plot(x, y, color = "FF0000")
+plt.show()
