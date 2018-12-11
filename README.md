@@ -59,3 +59,5 @@ datormacibas kursa elektroniska klade
    *  a = 10 - nosaka a punkta vertibu 
    *  a * b - reizina punktu a un b
    *  Print -  Parada informaciju saformetu 
+
+#doc - parada informaciju par kadu no komandam. *ssh_-X_x181REB303@213.175.92.22
