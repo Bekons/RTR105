@@ -7,7 +7,8 @@ rezultātu ieraksts failā,
 skaitļu kopas vidējās aritmētiskās vērtības aprēķins,
 skaitļu kopas mediānas aprēķins,
 skaitļu kopas vidējās kvadrātiskās novirzes aprēķins,
-datu nolasīšana no faila, gadījumu skaitļu ģenerēšana,
+datu nolasīšana no faila,
+gadījumu skaitļu ģenerēšana,
 skaitļu kopas kārtošana,
 skaitļu kopas maksimālās vērtības noteikšana,
 skaitļu kopas minimālās vērtības noteikšana,
@@ -26,3 +27,5 @@ read and write https://www.pythonforbeginners.com/files/reading-and-writing-file
 math https://en.wikibooks.org/wiki/Python_Programming/Basic_Math
 
 calulating https://www.w3resource.com/python-exercises/python-conditional-exercise-14.php
+
+rng https://www.pythoncentral.io/how-to-generate-a-random-number-in-python/
