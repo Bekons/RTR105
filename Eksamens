@@ -1,0 +1,18 @@
+
+dialoga rezims ar lietotaju 
+zīmēšana ar matplotlib vai gnuplot,
+vienas/vairāku sakņu meklēšana,
+rezultātu formatēta attēlošana uz ekrāna, 
+rezultātu ieraksts failā,
+skaitļu kopas vidējās aritmētiskās vērtības aprēķins,
+skaitļu kopas mediānas aprēķins,
+skaitļu kopas vidējās kvadrātiskās novirzes aprēķins,
+datu nolasīšana no faila, gadījumu skaitļu ģenerēšana,
+skaitļu kopas kārtošana,
+skaitļu kopas maksimālās vērtības noteikšana,
+skaitļu kopas minimālās vērtības noteikšana,
+šifrēšana ar XOR operāciju - skat. Class 20,
+simbolu rindas analīze,
+laukuma aprēķins,
+4 ciparu skaitļi - kombinācijas,
+kompleksie skaitļi - Class 15  Zīmēšana ar Python [autors V.Zagorskis] sakot ar 6. punktu)
